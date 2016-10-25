@@ -35,7 +35,7 @@ public class EntityAdelige extends EntityMob{
 		
 		this.getEntityAttribute(SharedMonsterAttributes.maxHealth).setBaseValue(20);
 		this.getEntityAttribute(SharedMonsterAttributes.attackDamage).setBaseValue(1.0D);
-		this.getEntityAttribute(SharedMonsterAttributes.followRange).setBaseValue(15.0D);
+		this.getEntityAttribute(SharedMonsterAttributes.followRange).setBaseValue(10.0D);
 		this.getEntityAttribute(SharedMonsterAttributes.movementSpeed).setBaseValue(0.5D);
 		super.onLivingUpdate();
 	}
