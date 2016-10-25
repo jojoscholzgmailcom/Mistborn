@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Mistborn",
+  "name": "Mistborn",
+  "description": "Eine Mod basierend auf der gleichnamigen Buchreihe von Brandon Sandersons",
+  "version": "7.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jonas Scholz"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

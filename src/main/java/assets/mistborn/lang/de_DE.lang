@@ -1,0 +1,56 @@
+language.name=Deutsch
+language.region=Deutschland
+language.code=de_DE
+
+item.clipser.name=Clipser
+item.gulde.name=Gulde
+item.kastling.name=Kastling
+item.zehnerclipser.name=Unze
+item.glasdolch.name=Glasdolch
+item.obsidiandolch.name=Obsidiandolch
+item.atium.name=Atium
+item.bendalloy.name=Bendalloy
+item.bronze.name=Bronze
+item.cadmium.name=Cadmium
+item.duralomin.name=Duralomin
+item.krypton.name=Krypton
+item.kupfer.name=Kupfer
+item.messing.name=Messink
+item.ragonium.name=Ragonium
+item.stahl.name=Stahl
+item.weisblech.name=Weiﬂblech
+item.zink.name=Zink
+item.zinn.name=Zinn
+item.nebeldolch.name=Nebeldolch
+item.holzstab.name=Holzstab
+item.nebelschwert.name=Nebelschwert
+item.nebel_nugget.name=Nebelklumpen
+item.nebel_ingot.name=Nebelbarren
+item.rohernebel.name=Nebel
+item.nebelstoff.name=Nebelstoff
+item.vnebel.name=Verst‰rkter Nebel
+item.gnebel.name=Gegerbter Nebel
+item.brei.name=Brei
+item.suppe.name=Suppe
+item.kase.name=K‰se
+item.skase.name=Schimmelk‰se
+item.sskase.name=K‰sescheibe
+item.traube.name=Traube
+item.rtraube.name=Rote Traube
+item.eisschwert.name=Eisschwert
+item.eisdolch.name=Eisdolch
+item.glasschwert.name=Glasschwert
+item.obsidianschwert.name=Obsidianschwert
+
+entity.OberHerr.name=Oberster Herrscher
+entity.Obligator.name= Obligator
+entity.Soldat.name=Soldat
+entity.Inquisitor.name=Inquisitor
+entity.Skar.name=Skar
+
+
+itemGroup.tabMetall=Reine Metalle
+itemGroup.tabEssen=Essen
+itemGroup.tabUMetall=Unreine Metalle
+itemGroup.tabWirtschaft=Wirtschaft
+itemGroup.tabAllomanti=Allomanti
